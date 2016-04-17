@@ -61,7 +61,7 @@ var responses = [
 	"Więzienia – to uniwersytety opozycji.",
 	"Gdyby wybory miałyby coś zmienić, to dawno zostałyby zakazane.",
 	"Idiota z dyplomem to taki sam idiota, jak przedtem — tylko z pretensjami.",
-	"Gdyby Newton sprzątał w domu, nie wymyśliłby pra­a powszechnego ciążenia.",
+	"Gdyby Newton sprzątał w domu, nie wymyśliłby prawa powszechnego ciążenia.",
 	"ZUS z pewnością jest instytucją przestępczą, ale nie można nazwać jej zorganizowaną.",
 	"Dyktatury dzielą się na dobre i jeszcze lepsze. Demokracja jest zawsze głupia.",
 	"Istnieją cztery rodzaje białej śmierci: cukier, sól, kokaina i służba zdrowia.",
