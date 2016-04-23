@@ -88,5 +88,5 @@ controller.on('direct_mention' ,function(bot,message) {
 });
 
 function chooseResponse() {
-	return responses[Math.floor(Math.random() * responses.length)];
+	return responses[Math.floor(Math.random() * (responses.length - 1))];
 }
