@@ -1,7 +1,7 @@
 var Botkit = require('botkit');
 var controller = Botkit.slackbot();
 var bot = controller.spawn({
-  token: "xoxb-35305045893-OjVDz8TN01cD6Wmx5VQdYNx0"
+  token: "xoxb-35305045893-R2NfnrtRi2wN1UCLOqLjpiFa"
 })
 
 var responses = [
@@ -71,7 +71,8 @@ var responses = [
 
 bot.startRTM(function(err,bot,payload) {
   if (err) {
-    throw new Error('Could not connect to Slack');
+    throw err; 
+    //new Error('Could not connect to Slack');
   }
 });
 
